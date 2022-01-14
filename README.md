@@ -19,7 +19,7 @@
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://github.com/MaelStorm176/projet-js-poker">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=MaelStorm176&repo=projet-js-poker&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
