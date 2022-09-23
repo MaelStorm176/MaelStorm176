@@ -42,6 +42,9 @@ Pays: Europe/France (EUW)
 <br />
 <p>Diplômé d'une Licence Informatique (bac +3) à l'URCA Reims, j'ai continué mes études dans le domaine du développement web à l'ESGI Paris filière : Master Ingénierie du web.</p>
 
+<br/>
+<p>En parallèle de ce master j'ai travaillé pendant 2ans en tant qu'alternant développeur Web à ENEDIS. 
+
 :muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
 <!--:eyes: I’m currently learning ... TypeScript <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
