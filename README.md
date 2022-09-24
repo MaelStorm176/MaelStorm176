@@ -22,8 +22,8 @@
  <a href="https://github.com/MaelStorm176/projet-js-poker">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=MaelStorm176&repo=projet-js-poker&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+<a href="http://fresh-weather-app.herokuapp.com/">
+  <img align="" src="https://repository-images.githubusercontent.com/48552875" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
