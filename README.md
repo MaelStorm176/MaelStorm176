@@ -22,7 +22,7 @@
  <a href="https://github.com/MaelStorm176/projet-js-poker">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=MaelStorm176&repo=projet-js-poker&theme=tokyonight" />
 </a>
-<a href="http://fresh-weather-app.herokuapp.com/">
+<a href="https://github.com/MaelStorm176/weather-app">
   <img align="" src="https://repository-images.githubusercontent.com/48552875" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
