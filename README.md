@@ -45,12 +45,12 @@ Pays: Europe/France (EUW)
 <br/>
 <p>En parallèle de ce master j'ai travaillé pendant 2ans en tant qu'alternant développeur Web à ENEDIS. 
 
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
+:muscle: Apprendre et transmettre sont pour moi deux piliers.<br />
+:eyes: Actuellement en train d'apprendre ... TypeScript <br />
+:raising_hand: Toujours partant pour un projet collaboraif ! <br />
+<!--:dizzy_face: Aidez-moi ... TypeScript<br />-->
 💬 J'aime transmettre et enseigner.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
+:ghost: Fun fact: ... Je suis aussi créateur de musiques électroniques ! <a href="https://soundcloud.com/ma-l-jamin">SoundCloud</a> <br />
 
 <br />
 <br />
