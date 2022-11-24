@@ -25,10 +25,8 @@
 <a href="https://github.com/MaelStorm176/weather-app">
   <img width="400" align="" src="https://repository-images.githubusercontent.com/485528757/b6f49eb0-4c1f-4bf5-a227-c286b7dfdcdf" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+<a href="https://github.com/MaelStorm176/ta-moto">
+  <img width="400" align="" src="https://repository-images.githubusercontent.com/553143825/9e6ae7a2-1403-4760-98b0-384475b05b31" />
 </a>
 <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
